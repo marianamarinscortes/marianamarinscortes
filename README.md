@@ -36,13 +36,21 @@
   <tr>
     <td><strong>API Bancária</strong></td>
     <td>API RESTful assíncrona para gerenciar operações bancárias simples</td>
-    <td>Python, FastAPI, SQLAlchemy, SQLite</td>
+    <td>Python, FastAPI</td>
     <td><a href="https://github.com/marianamarinscortes/api-banco">Acessar</a></td>
+  </tr>
+    <tr>
+    <td><strong>API Pizzaria</strong></td>
+    <td>API RESTful assíncrona para gerenciar pedidos de uma pizzaria</td>
+    <td>Python, FastAPI</td>
+    <td>
+      <a href="https://github.com/marianamarinscortes/projeto-fastapi-pizzaria">Acessar</a>
+    </td>
   </tr>
   <tr>
     <td><strong>Sistema Bancário</strong></td>
     <td>Sistema bancário executado pelo terminal, desenvolvido para praticar Programação Orientada a Objetos</td>
-    <td>Python, POO, Herança, Classes Abstratas</td>
+    <td>Python, POO</td>
     <td><a href="https://github.com/marianamarinscortes/sistema-bancario-python">Acessar</a></td>
   </tr>
   <tr>
