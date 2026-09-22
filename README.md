@@ -61,6 +61,14 @@
       <a href="https://marianamarinscortes.github.io/projeto_android/">Acessar</a>
     </td>
   </tr>
+    <tr>
+    <td><strong>Projeto Login</strong></td>
+    <td>Tela de login responsiva desenvolvida durante o curso de HTML5 e CSS3 do Curso em Vídeo</td>
+    <td>HTML5, CSS3</td>
+    <td>
+      <a href="https://marianamarinscortes.github.io/projeto-login/">Acessar</a>
+    </td>
+  </tr>
 </table>
 
 ### 🎯 Objetivos atuais
